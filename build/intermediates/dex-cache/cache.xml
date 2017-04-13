@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\6946517e1fc5783f4933ce6364f4921a43b792fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc7d19322ff01498e222319e3b70aaa744790222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\3db10abce01471cd5cdecc45220c652db88ca852\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_508ca608b7f02002b816ffb0b04abddb9494424e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\aada2243e94865b5b8c2260578a725a4aff9deaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b7daef062b22a0dba19802fda078d93cdbe24c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_7bf11fd3d6f8bcc63d7f736843cad5b722eaebdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\d193e471bff60c6743644822c7d55b8a8b43293e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c848777d7fabec82d0d1d473d4c4c22a623744c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\dfece81bc052bb191fdaff4597ff69204b941072\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2970505da3a111e3097efc56b9272ca826012cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\3db10abce01471cd5cdecc45220c652db88ca852\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_506ee614b90a36049731da660a6fba9c9229a959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\d193e471bff60c6743644822c7d55b8a8b43293e\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_59f3db80018b287ca70f2e058c078e978a62815f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\188ce514a3475547ef76d468e8f8e7026798d214\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d084c94a93702ba46c11fcf181c000c3e2e0d6ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\c968284c4d1da849ecb81aade3b42eb22382cfb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b76fc60a90be617a9a686df06e85706f0d347b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\bc43d76c46d3b2fdecfcd9b66253d8e96653319c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8780b9808be7946c4800bad54ced9c06c600cb5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\35ab98f2abb71907de039f0e04bfd642aed87d85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fc373fd7018ffe59f0a3998e96d0f4c6deda77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\bc43d76c46d3b2fdecfcd9b66253d8e96653319c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a44184235369219abf36006bcafa8a1e915eb214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\35ab98f2abb71907de039f0e04bfd642aed87d85\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0c41a1b35d5d3d71b9a0151568e6f30977b324eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\f9c02df1b4cf4c672a557c05e4e26c40d126c063\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_186fbeff1a840c74e4de4124937a6026a645a9a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_24f6e8e4d962137c9eb0b56d801fb8f2d8dc5dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\188ce514a3475547ef76d468e8f8e7026798d214\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_20ba7f4ab2d874baa9c9beaac09c2a8cc3f490e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad084828097c59bca0bcb5402fdb40092073b215">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7354cc9c6fd74875b91902f93f37c177c0e89500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\6946517e1fc5783f4933ce6364f4921a43b792fe\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_43c115352e4db5d3b250528da8d7bedddb88f8f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zzes\.android\build-cache\ae63983f22d15f2227f1e4fce062b8b327fdf40a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\1file\androidTest\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0f5879bbd9383641eec6485b3ac1f6fdd4c4bce\classes.dex" />
+    </item>
+
+</items>
